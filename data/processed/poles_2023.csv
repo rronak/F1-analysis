@@ -1,0 +1,23 @@
+Season,Round,Circuit,PoleDriver,RaceWinner,PoleFinishPosition,Lap1Position,WonFromPole
+2023,1,Bahrain Grand Prix,VER,VER,1.0,1.0,True
+2023,2,Saudi Arabian Grand Prix,PER,PER,1.0,2.0,True
+2023,3,Australian Grand Prix,VER,VER,1.0,3.0,True
+2023,4,Azerbaijan Grand Prix,LEC,PER,3.0,1.0,False
+2023,5,Miami Grand Prix,PER,VER,2.0,1.0,False
+2023,6,Monaco Grand Prix,VER,VER,1.0,1.0,True
+2023,7,Spanish Grand Prix,VER,VER,1.0,1.0,True
+2023,8,Canadian Grand Prix,VER,VER,1.0,1.0,True
+2023,9,Austrian Grand Prix,VER,VER,1.0,1.0,True
+2023,10,British Grand Prix,VER,VER,1.0,2.0,True
+2023,11,Hungarian Grand Prix,HAM,VER,4.0,4.0,False
+2023,12,Belgian Grand Prix,VER,VER,1.0,4.0,True
+2023,13,Dutch Grand Prix,VER,VER,1.0,1.0,True
+2023,14,Italian Grand Prix,SAI,VER,3.0,1.0,False
+2023,15,Singapore Grand Prix,SAI,SAI,1.0,1.0,True
+2023,16,Japanese Grand Prix,VER,VER,1.0,1.0,True
+2023,17,Qatar Grand Prix,VER,VER,1.0,1.0,True
+2023,18,United States Grand Prix,LEC,VER,20.0,2.0,False
+2023,19,Mexico City Grand Prix,LEC,VER,3.0,2.0,False
+2023,20,São Paulo Grand Prix,VER,VER,1.0,1.0,True
+2023,21,Las Vegas Grand Prix,LEC,VER,2.0,2.0,False
+2023,22,Abu Dhabi Grand Prix,VER,VER,1.0,1.0,True

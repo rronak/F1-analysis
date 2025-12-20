@@ -1,0 +1,26 @@
+Season,Round,Circuit,PoleDriver,RaceWinner,PoleFinishPosition,Lap1Position,WonFromPole
+2025,1,Australian Grand Prix,NOR,NOR,1.0,1.0,True
+2025,2,Chinese Grand Prix,PIA,PIA,1.0,1.0,True
+2025,3,Japanese Grand Prix,VER,VER,1.0,1.0,True
+2025,4,Bahrain Grand Prix,PIA,PIA,1.0,1.0,True
+2025,5,Saudi Arabian Grand Prix,VER,PIA,2.0,1.0,False
+2025,6,Miami Grand Prix,VER,PIA,4.0,1.0,False
+2025,7,Emilia Romagna Grand Prix,PIA,VER,3.0,2.0,False
+2025,8,Monaco Grand Prix,NOR,NOR,1.0,1.0,True
+2025,9,Spanish Grand Prix,PIA,PIA,1.0,1.0,True
+2025,10,Canadian Grand Prix,RUS,RUS,1.0,1.0,True
+2025,11,Austrian Grand Prix,NOR,NOR,1.0,1.0,True
+2025,12,British Grand Prix,VER,NOR,5.0,1.0,False
+2025,13,Belgian Grand Prix,NOR,PIA,2.0,1.0,False
+2025,14,Hungarian Grand Prix,LEC,NOR,4.0,1.0,False
+2025,15,Dutch Grand Prix,PIA,PIA,1.0,1.0,True
+2025,16,Italian Grand Prix,VER,VER,1.0,1.0,True
+2025,17,Azerbaijan Grand Prix,VER,VER,1.0,1.0,True
+2025,18,Singapore Grand Prix,RUS,RUS,1.0,1.0,True
+2025,19,United States Grand Prix,VER,VER,1.0,1.0,True
+2025,20,Mexico City Grand Prix,NOR,NOR,1.0,1.0,True
+2025,21,São Paulo Grand Prix,NOR,NOR,1,1,True
+2025,22,Las Vegas Grand Prix,NOR,MAX,2,2,False
+2025,23,Qatar Grand Prix,PIA,MAX,2,1,False
+2025,24,Abu Dhabi Grand Prix,VER,VER,1,1,True
+
