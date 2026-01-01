@@ -27,7 +27,7 @@ F1-analysis/
 - **Jupyter Notebook** - Interactive analysis environment
 - **Pandas** - Data manipulation and analysis
 - **Matplotlib/Seaborn** - Data visualization
-- **FastF1** (likely) - F1 telemetry and timing data access
+- **FastF1** - F1 telemetry and timing data access
 
 ## 📈 Analysis Categories
 
@@ -72,7 +72,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 **Ronak** - [@rronak](https://github.com/rronak)
 
-Project Link: [https://github.com/rronak/F1-analysis](https://github.com/rronak/F1-analysis)
+**Linkedin** - [@ronak-rayamajhi](www.linkedin.com/in/ronak120)
 
 ## ⚖️ Disclaimer
 
