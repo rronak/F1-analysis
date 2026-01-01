@@ -72,7 +72,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 **Ronak** - [@rronak](https://github.com/rronak)
 
-**Linkedin** - [@ronak-rayamajhi](www.linkedin.com/in/ronak120)
+**LinkedIn** - [Ronak Rayamajhi](https://www.linkedin.com/in/ronak120)
 
 ## ⚖️ Disclaimer
 
