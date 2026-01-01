@@ -1,0 +1,97 @@
+Season,Race,Driver,QualiPos,FinishPos,Podium,Win,AvgLapTime_s
+2024,Bahrain Grand Prix,Lando Norris,7,6,False,False,97.42456140350878
+2024,Bahrain Grand Prix,Oscar Piastri,8,8,False,False,97.5583157894737
+2024,Saudi Arabian Grand Prix,Lando Norris,6,8,False,False,94.85802083333334
+2024,Saudi Arabian Grand Prix,Oscar Piastri,5,4,False,False,94.4689375
+2024,Australian Grand Prix,Lando Norris,4,3,True,False,83.32322413793102
+2024,Australian Grand Prix,Oscar Piastri,6,4,False,False,83.83815517241379
+2024,Japanese Grand Prix,Lando Norris,3,5,False,False,98.26139215686275
+2024,Japanese Grand Prix,Oscar Piastri,6,8,False,False,98.76094117647058
+2024,Chinese Grand Prix,Lando Norris,4,2,True,False,107.44454545454545
+2024,Chinese Grand Prix,Oscar Piastri,5,8,False,False,108.32136363636364
+2024,Miami Grand Prix,Lando Norris,5,1,True,True,94.52207142857142
+2024,Miami Grand Prix,Oscar Piastri,6,13,False,False,95.52126785714283
+2024,Emilia Romagna Grand Prix,Lando Norris,3,2,True,False,81.36471428571429
+2024,Emilia Romagna Grand Prix,Oscar Piastri,2,4,False,False,81.57752380952381
+2024,Monaco Grand Prix,Lando Norris,4,4,False,False,109.56542857142858
+2024,Monaco Grand Prix,Oscar Piastri,2,2,True,False,109.43609090909091
+2024,Canadian Grand Prix,Lando Norris,3,2,True,False,90.7400857142857
+2024,Canadian Grand Prix,Oscar Piastri,4,5,False,False,90.83037142857144
+2024,Spanish Grand Prix,Lando Norris,1,2,True,False,80.3400909090909
+2024,Spanish Grand Prix,Oscar Piastri,10,7,False,False,80.81798484848485
+2024,Austrian Grand Prix,Lando Norris,2,20,False,False,71.73521875
+2024,Austrian Grand Prix,Oscar Piastri,7,2,True,False,71.33385915492956
+2024,British Grand Prix,Lando Norris,3,3,True,False,95.28088461538461
+2024,British Grand Prix,Oscar Piastri,5,4,False,False,95.37476923076922
+2024,Hungarian Grand Prix,Lando Norris,1,2,True,False,84.059
+2024,Hungarian Grand Prix,Oscar Piastri,2,1,True,True,84.02841428571428
+2024,Belgian Grand Prix,Lando Norris,5,5,False,False,109.2475
+2024,Belgian Grand Prix,Oscar Piastri,6,2,True,False,109.05029545454545
+2024,Dutch Grand Prix,Lando Norris,1,1,True,True,75.63220833333334
+2024,Dutch Grand Prix,Oscar Piastri,3,4,False,False,76.01188888888889
+2024,Italian Grand Prix,Lando Norris,1,3,True,False,84.65811320754716
+2024,Italian Grand Prix,Oscar Piastri,2,2,True,False,84.59228301886793
+2024,Azerbaijan Grand Prix,Lando Norris,16,4,False,False,109.23942000000001
+2024,Azerbaijan Grand Prix,Oscar Piastri,2,1,True,True,108.49345999999997
+2024,Singapore Grand Prix,Lando Norris,1,1,True,True,97.62211290322581
+2024,Singapore Grand Prix,Oscar Piastri,5,3,True,False,98.29667741935482
+2024,United States Grand Prix,Lando Norris,1,4,False,False,100.15840740740741
+2024,United States Grand Prix,Oscar Piastri,5,5,False,False,101.22374545454547
+2024,Mexico City Grand Prix,Lando Norris,3,2,True,False,85.35922535211267
+2024,Mexico City Grand Prix,Oscar Piastri,17,8,False,False,86.20743661971831
+2024,São Paulo Grand Prix,Lando Norris,1,6,False,False,88.59928358208957
+2024,São Paulo Grand Prix,Oscar Piastri,8,8,False,False,88.7619552238806
+2024,Las Vegas Grand Prix,Lando Norris,6,6,False,False,99.38707999999998
+2024,Las Vegas Grand Prix,Oscar Piastri,8,7,False,False,99.54668
+2024,Qatar Grand Prix,Lando Norris,3,10,False,False,92.8209259259259
+2024,Qatar Grand Prix,Oscar Piastri,4,3,True,False,94.76075000000002
+2024,Abu Dhabi Grand Prix,Lando Norris,1,1,True,True,89.53949999999999
+2024,Abu Dhabi Grand Prix,Oscar Piastri,2,10,False,False,90.98468965517242
+2025,Australian Grand Prix,Lando Norris,1,1,True,True,103.42830188679247
+2025,Australian Grand Prix,Oscar Piastri,2,9,False,False,102.08446153846154
+2025,Chinese Grand Prix,Lando Norris,3,2,True,False,97.58524999999999
+2025,Chinese Grand Prix,Oscar Piastri,1,1,True,True,97.41117857142856
+2025,Japanese Grand Prix,Lando Norris,2,2,True,False,92.98879245283018
+2025,Japanese Grand Prix,Oscar Piastri,3,3,True,False,93.00211320754717
+2025,Bahrain Grand Prix,Lando Norris,6,3,True,False,99.98400000000001
+2025,Bahrain Grand Prix,Oscar Piastri,1,1,True,True,99.52437499999999
+2025,Saudi Arabian Grand Prix,Lando Norris,10,4,False,False,94.71422916666667
+2025,Saudi Arabian Grand Prix,Oscar Piastri,2,1,True,True,94.32264583333331
+2025,Miami Grand Prix,Lando Norris,2,2,True,False,93.61784210526315
+2025,Miami Grand Prix,Oscar Piastri,4,1,True,True,93.53661403508772
+2025,Emilia Romagna Grand Prix,Lando Norris,4,2,True,False,87.29060317460316
+2025,Emilia Romagna Grand Prix,Oscar Piastri,1,3,True,False,87.39928571428572
+2025,Monaco Grand Prix,Lando Norris,1,1,True,True,77.35696153846155
+2025,Monaco Grand Prix,Oscar Piastri,3,3,True,False,77.40385897435898
+2025,Spanish Grand Prix,Lando Norris,2,2,True,False,84.54312121212122
+2025,Spanish Grand Prix,Oscar Piastri,1,1,True,True,84.50568181818181
+2025,Canadian Grand Prix,Lando Norris,7,18,False,False,76.32530303030302
+2025,Canadian Grand Prix,Oscar Piastri,3,4,False,False,78.78281428571428
+2025,Austrian Grand Prix,Lando Norris,1,1,True,True,71.82418571428572
+2025,Austrian Grand Prix,Oscar Piastri,3,2,True,False,71.86268571428573
+2025,British Grand Prix,Lando Norris,3,1,True,True,105.54921739130432
+2025,British Grand Prix,Oscar Piastri,2,2,True,False,105.34128260869566
+2025,Belgian Grand Prix,Lando Norris,1,2,True,False,112.13146341463413
+2025,Belgian Grand Prix,Oscar Piastri,2,1,True,True,112.06253658536586
+2025,Hungarian Grand Prix,Lando Norris,3,1,True,True,81.73187142857144
+2025,Hungarian Grand Prix,Oscar Piastri,2,2,True,False,81.74184285714284
+2025,Dutch Grand Prix,Lando Norris,2,18,False,False,80.75760937499999
+2025,Dutch Grand Prix,Oscar Piastri,1,1,True,True,82.08123611111111
+2025,Italian Grand Prix,Lando Norris,2,2,True,False,83.46286792452828
+2025,Italian Grand Prix,Oscar Piastri,3,3,True,False,83.503320754717
+2025,Azerbaijan Grand Prix,Lando Norris,7,7,False,False,106.97414583333334
+2025,Azerbaijan Grand Prix,Oscar Piastri,9,20,False,False,
+2025,Singapore Grand Prix,Lando Norris,5,3,True,False,97.23279032258066
+2025,Singapore Grand Prix,Oscar Piastri,3,4,False,False,97.26633870967741
+2025,United States Grand Prix,Lando Norris,2,2,True,False,100.85928571428572
+2025,United States Grand Prix,Oscar Piastri,6,5,False,False,101.247125
+2025,Mexico City Grand Prix,Lando Norris,1,1,True,True,82.79681690140843
+2025,Mexico City Grand Prix,Oscar Piastri,8,5,False,False,83.38928169014083
+2025,São Paulo Grand Prix,Lando Norris,1,1,True,True,77.76895774647886
+2025,São Paulo Grand Prix,Oscar Piastri,4,5,False,False,77.99077464788732
+2025,Las Vegas Grand Prix,Lando Norris,1,19,False,False,97.7834
+2025,Las Vegas Grand Prix,Oscar Piastri,5,20,False,False,97.92158
+2025,Qatar Grand Prix,Lando Norris,2,4,False,False,89.50098245614035
+2025,Qatar Grand Prix,Oscar Piastri,1,2,True,False,89.2322105263158
+2025,Abu Dhabi Grand Prix,Lando Norris,2,3,True,False,89.3800172413793
+2025,Abu Dhabi Grand Prix,Oscar Piastri,3,2,True,False,89.31143103448277
