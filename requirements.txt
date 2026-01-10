@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+requests
+beautifulsoup4
+requests-cache
+
+fastf1
+
+jupyter
+ipykernel
